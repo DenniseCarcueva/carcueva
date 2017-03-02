@@ -1,15 +1,25 @@
 {
   "name": "carcueva",
   "version": "1.0.0",
-  "description": "",
+  "description": "conrad francisco jr - BSIT2A",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenniseCarcueva/carcueva.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DenniseCarcueva/carcueva/issues"
+  },
+  "homepage": "https://github.com/DenniseCarcueva/carcueva#readme"
 }
